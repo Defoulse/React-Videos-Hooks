@@ -1,3 +1,13 @@
+# Attention
+This project is a copy of repository React-Redux/Videos. The project is created by using React and Youtube API which will provide a collection of videos from a user's request. User able to pick one out of five given videos. The project has been doployed to Netlify.com and in order to view the result, please go to the link: https://suspicious-nobel-90e1f8.netlify.app
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
